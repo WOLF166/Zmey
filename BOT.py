@@ -6,7 +6,7 @@ import random
 import sqlite3
 import asyncio
 
-TOKEN = "OTU2MTk4MTA0Njg2NzkyNzI2.Yjsu4Q.mO1AmMo_xldF9H34OpokEm9-5_E"
+TOKEN = ""
 vseya_owner = "WOLF#9649"
 
 
